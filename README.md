@@ -34,6 +34,8 @@ RENE-ASTRID: 3
 ### Installing
 mvn install
 
+*Note*: Input file (timesheets.txt) is located in the folder "input" --- An improvemnet to this could be receiving the file path as argument to main...---
+
 ### Testing
 mvn test
 
